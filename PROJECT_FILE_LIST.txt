@@ -1,0 +1,9 @@
+.gitignore
+README.md
+data/mall_customers_clean_sample.csv
+data/mall_customers_sample.csv
+notebooks/task1_data_cleaning.ipynb
+reports/cleaning_summary_sample.txt
+reports/task1_report.md
+requirements.txt
+src/clean_data.py

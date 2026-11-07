@@ -1,0 +1,12 @@
+TASK 1 - SAMPLE CLEANING SUMMARY
+Input: mall_customers_sample.csv (10-row demo only)
+Rows before cleaning: 10
+Columns before cleaning: 5
+Missing cells before cleaning: 0
+Duplicate rows before cleaning: 0
+Rows after cleaning: 10
+Missing cells after cleaning: 0
+Duplicate rows after cleaning: 0
+
+This is a demonstration result, not a result for the full Kaggle dataset.
+Run src/clean_data.py on the original Mall_Customers.csv for the real summary.
